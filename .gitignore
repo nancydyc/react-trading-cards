@@ -56,3 +56,4 @@ SESSION_MANAGER=local/hackbright:@/tmp/.ICE-unix/32666,unix/hackbright:/tmp/.ICE
 LESSOPEN=| /usr/bin/lesspipe %s
 GTK_IM_MODULE=ibus
 _=/usr/bin/env
+env
